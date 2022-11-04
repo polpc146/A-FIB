@@ -2,4 +2,4 @@
 
 Algorísmia
 
-Projecte
+Projecte, solucions a examens i exercicis
